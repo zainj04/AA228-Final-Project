@@ -1,0 +1,865 @@
+week,date,team1,team2,location
+1,12:00 PM,24,21,(10)Florida State
+1,4:00 PM,35,31,New Mexico
+1,8:00 PM,29,24,Nevada
+1,12:00 AM,35,14,Delaware State
+2,8:00 PM,41,3,Alcorn State
+2,7:30 PM,70,0,Arkansas-Pine Bluff
+2,7:00 PM,41,17,Fordham
+2,7:00 PM,30,13,Lafayette
+2,7:00 PM,57,3,New Hampshire
+2,7:00 PM,66,10,Central Connecticut State
+2,8:00 PM,55,27,Jacksonville State
+2,8:00 PM,31,26,North Dakota State
+2,9:00 PM,45,0,Eastern Illinois
+2,8:00 PM,48,3,Lindenwood
+2,7:00 PM,30,14,Jackson State
+2,8:00 PM,51,0,Murray State
+2,9:00 PM,19,17,Minnesota
+2,7:00 PM,38,21,Western Carolina
+2,6:00 PM,44,7,Howard
+2,10:00 PM,42,24,Sacramento State
+2,7:30 PM,49,10,Duquesne
+2,8:00 PM,52,0,Southeastern Louisiana
+2,8:00 PM,62,28,Northwestern State
+2,9:00 PM,49,0,Southern Utah
+2,7:00 PM,45,13,North Carolina A&T
+2,6:00 PM,42,7,Lehigh
+2,7:30 PM,26,3,Elon
+2,7:00 PM,16,10,Florida Atlantic
+2,7:00 PM,51,3,Temple
+2,10:30 PM,34,27,Stanford
+2,9:00 PM,28,14,Western Michigan
+2,3:30 PM,21,6,Merrimack
+2,7:00 PM,63,0,Western Kentucky
+2,3:30 PM,38,10,East Tennessee State
+2,10:30 PM,61,39,New Mexico
+2,10:30 PM,48,7,Wyoming
+2,7:00 PM,34,31,Central Arkansas
+2,7:30 PM,73,3,Alabama A&M
+2,7:00 PM,45,3,Tarleton State
+2,4:00 PM,56,45,Georgia Southern
+2,8:00 PM,41,13,Southern Illinois
+2,5:00 PM,31,13,California-Davis
+2,2:30 PM,38,20,Towson
+2,6:00 PM,42,3,Norfolk State
+2,3:30 PM,28,14,Massachusetts
+2,12:00 PM,34,3,(14)Clemson
+2,8:00 PM,35,12,Georgia State
+2,3:30 PM,31,7,Florida International
+2,12:00 PM,40,0,Illinois State
+2,3:30 PM,21,3,North Dakota
+2,8:00 PM,30,7,Charlotte
+2,7:00 PM,41,6,Tennessee-Martin
+2,7:45 PM,31,0,Southern Mississippi
+2,6:00 PM,41,24,Campbell
+2,8:00 PM,40,10,Grambling State
+2,8:00 PM,25,17,Nicholls State
+2,12:00 PM,62,0,Austin Peay
+2,5:00 PM,45,3,Stony Brook
+2,12:00 PM,50,7,Connecticut
+2,7:00 PM,40,0,North Alabama
+2,3:30 PM,41,17,Florida
+2,7:30 PM,30,10,Fresno State
+2,7:00 PM,32,25,Tennessee Tech
+2,7:00 PM,76,0,Furman
+2,6:00 PM,56,7,Eastern Kentucky
+2,12:00 PM,49,21,Bucknell
+2,3:30 PM,40,7,Texas-El Paso
+2,7:00 PM,28,26,Troy
+2,7:00 PM,27,7,Houston
+2,9:00 PM,23,16,Southeast Missouri State
+2,5:00 PM,52,38,South Alabama
+2,3:30 PM,54,15,Western Illinois
+2,3:30 PM,13,6,Miami (OH)
+2,7:30 PM,23,13,(20)Texas A&M
+2,3:30 PM,52,6,Akron
+2,2:00 PM,44,20,South Dakota State
+2,7:30 PM,24,14,Idaho
+2,6:30 PM,38,15,Idaho State
+2,12:00 PM,34,12,West Virginia
+2,12:00 PM,55,24,Kent State
+2,12:00 PM,49,0,Indiana State
+2,7:00 PM,34,14,Rice
+2,8:00 PM,45,14,Texas A&M-Commerce
+2,4:15 PM,23,19,Old Dominion
+2,7:00 PM,48,3,Bethune-Cookman
+2,8:00 PM,59,7,Houston Baptist
+2,3:30 PM,38,22,Ohio
+2,12:45 PM,69,3,Chattanooga
+2,3:30 PM,52,0,Colorado State
+2,8:00 PM,34,27,Lamar
+2,7:30 PM,52,51,Abilene Christian
+2,3:30 PM,28,16,Kennesaw State
+2,7:30 PM,16,13,Hawaii
+2,8:00 PM,36,14,Robert Morris
+2,12:00 PM,34,27,Virginia Tech
+2,6:00 PM,34,13,Richmond
+2,11:00 PM,35,3,Weber State
+2,3:00 PM,70,30,Portland State
+2,7:30 PM,27,20,(13)Louisiana State
+2,7:30 PM,28,13,(10)Florida State
+3,7:00 PM,18,15,Southern Methodist
+3,9:00 PM,26,20,Northwestern
+3,7:00 PM,77,3,Western Illinois
+3,7:00 PM,42,16,South Florida
+3,10:00 PM,22,10,Northern Arizona
+3,10:30 PM,30,23,Mississippi State
+3,7:00 PM,28,24,Tulsa
+3,12:00 PM,24,7,Florida Atlantic
+3,2:00 PM,42,34,Missouri State
+3,3:30 PM,56,0,Duquesne
+3,3:30 PM,21,14,Auburn
+3,6:30 PM,45,14,Sam Houston
+3,8:00 PM,66,20,Appalachian State
+3,7:00 PM,40,21,William & Mary
+3,7:00 PM,38,17,Northern Colorado
+3,12:00 PM,63,17,Merrimack
+3,6:00 PM,20,14,Old Dominion
+3,7:00 PM,45,7,Samford
+3,6:00 PM,52,16,Central Michigan
+3,10:00 PM,46,30,Sacramento State
+3,2:00 PM,48,3,Tennessee Tech
+3,7:00 PM,20,17,Nevada
+3,7:00 PM,24,21,Chattanooga
+3,3:30 PM,17,13,Wyoming
+3,7:00 PM,23,17,(19)Kansas
+3,3:30 PM,20,19,(21)Iowa
+3,6:00 PM,13,6,Gardner-Webb
+3,12:00 PM,34,27,Tulane
+3,10:15 PM,30,24,New Mexico State
+3,7:00 PM,34,10,Kennesaw State
+3,7:30 PM,44,21,Nicholls State
+3,7:00 PM,32,6,Alabama-Birmingham
+3,3:30 PM,49,14,Jacksonville State
+3,12:00 PM,38,17,Troy
+3,6:00 PM,56,9,Florida A&M
+3,3:30 PM,27,24,Maryland
+3,12:00 PM,48,0,Rhode Island
+3,4:15 PM,52,3,Middle Tennessee State
+3,7:00 PM,38,0,Buffalo
+3,3:30 PM,38,11,Temple
+3,7:30 PM,28,10,Colorado
+3,3:00 PM,72,14,Utah Tech
+3,3:30 PM,38,20,Charlotte
+3,7:30 PM,35,20,Stephen F. Austin
+3,3:30 PM,16,14,(5)Notre Dame
+3,6:00 PM,27,20,South Alabama
+3,7:30 PM,56,0,Western Michigan
+3,7:45 PM,16,12,Houston
+3,12:00 PM,39,31,Arkansas
+3,10:00 PM,37,34,Boise State
+3,10:30 PM,21,0,San Diego State
+3,12:00 PM,34,27,Bowling Green
+3,12:00 PM,28,27,Cincinnati
+3,7:00 PM,69,7,Texas Southern
+3,12:00 PM,49,17,Akron
+3,7:00 PM,17,7,Air Force
+3,3:30 PM,31,6,Kentucky
+3,11:00 PM,48,0,Utah State
+3,7:00 PM,35,10,Southeastern Louisiana
+3,9:00 PM,27,24,Texas-El Paso
+3,2:30 PM,23,17,Kent State
+3,7:00 PM,41,7,Cal Poly
+3,12:00 PM,31,28,(23)Georgia Tech
+3,7:30 PM,51,10,(24)North Carolina State
+3,12:00 PM,31,12,(10)Michigan
+3,12:45 PM,52,10,McNeese State
+3,8:00 PM,45,0,Long Island
+3,4:00 PM,49,10,Texas-San Antonio
+3,3:30 PM,38,23,Massachusetts
+3,3:30 PM,23,12,Baylor
+3,7:30 PM,55,0,Alcorn State
+3,7:00 PM,31,30,Wake Forest
+3,4:30 PM,31,14,Marshall
+3,3:30 PM,30,9,Eastern Michigan
+3,10:00 PM,37,16,Texas Tech
+3,6:00 PM,49,14,Albany
+3,7:00 PM,31,0,Eastern Kentucky
+3,3:30 PM,27,13,South Dakota
+4,7:30 PM,31,28,Texas State
+4,7:30 PM,87,10,Northwestern State
+4,8:00 PM,31,7,(20)Arizona
+4,7:00 PM,23,20,Kansas
+4,6:00 PM,31,20,Colgate
+4,12:00 PM,42,10,Wisconsin
+4,4:00 PM,21,19,East Carolina
+4,4:15 PM,37,27,Alabama-Birmingham
+4,7:30 PM,45,19,New Mexico
+4,7:30 PM,31,3,Air Force
+4,9:00 PM,34,14,Wyoming
+4,1:00 PM,34,3,Massachusetts
+4,10:30 PM,31,10,San Diego State
+4,7:30 PM,35,34,Texas Christian
+4,6:00 PM,27,26,Gardner-Webb
+4,12:00 PM,27,16,Miami (OH)
+4,2:00 PM,28,20,Temple
+4,7:30 PM,28,9,Colorado State
+4,6:00 PM,26,21,Connecticut
+4,7:00 PM,37,34,Jacksonville State
+4,6:00 PM,38,20,Florida International
+4,10:30 PM,48,0,New Mexico State
+4,7:30 PM,13,12,Kentucky
+4,6:00 PM,42,14,South Carolina State
+4,7:00 PM,36,32,Vanderbilt
+4,3:30 PM,59,7,Virginia Military Institute
+4,8:00 PM,33,7,Rice
+4,12:00 PM,30,9,Central Michigan
+4,7:30 PM,42,13,UCLA
+4,4:00 PM,38,21,Troy
+4,6:00 PM,28,10,Texas-El Paso
+4,12:00 PM,36,33,South Carolina
+4,8:00 PM,27,13,Virginia
+4,12:00 PM,20,12,Florida State
+4,3:30 PM,62,0,Ball State
+4,12:00 PM,28,18,Arkansas State
+4,3:30 PM,40,0,Prairie View A&M
+4,3:30 PM,27,0,Nevada
+4,6:30 PM,40,6,Wake Forest
+4,12:45 PM,27,21,(24)Boston College
+4,7:30 PM,34,3,Northern Iowa
+4,6:00 PM,45,10,North Carolina Central
+4,12:00 PM,30,20,Louisiana Tech
+4,7:30 PM,31,7,Eastern Illinois
+4,3:30 PM,66,7,Purdue
+4,3:30 PM,21,6,Morgan State
+4,3:30 PM,34,19,Tulane
+4,12:00 PM,45,10,Tulsa
+4,3:30 PM,49,14,Oregon State
+4,3:30 PM,38,34,West Virginia
+4,7:00 PM,31,13,Hawaii
+4,7:00 PM,31,10,Kennesaw State
+4,7:00 PM,49,24,Southern Mississippi
+4,7:45 PM,71,0,Kent State
+4,7:00 PM,56,7,Texas-San Antonio
+4,3:30 PM,33,20,Florida
+4,12:00 PM,66,21,North Texas
+4,7:30 PM,41,17,Mississippi State
+4,4:30 PM,38,21,Utah State
+4,6:00 PM,37,17,Old Dominion
+4,3:30 PM,24,19,Washington
+4,7:00 PM,49,21,Middle Tennessee State
+4,6:30 PM,59,31,Bethune-Cookman
+5,7:30 PM,48,14,Appalachian State
+5,8:00 PM,31,24,(22)Nebraska
+5,7:30 PM,26,24,Syracuse
+5,10:00 PM,54,52,San Jose State
+5,3:30 PM,24,14,Auburn
+5,12:00 PM,37,14,Rice
+5,9:45 PM,56,14,Portland State
+5,8:00 PM,23,19,Michigan State
+5,10:30 PM,38,9,(13)Kansas State
+5,3:30 PM,23,20,(23)Northern Illinois
+5,1:00 PM,37,34,Ball State
+5,12:00 PM,34,0,Houston
+5,12:00 PM,59,35,North Carolina State
+5,8:00 PM,38,31,Baylor
+5,5:00 PM,27,17,Texas-El Paso
+5,7:00 PM,48,14,Florida Atlantic
+5,4:00 PM,45,17,Middle Tennessee State
+5,2:00 PM,36,0,St. Francis (PA)
+5,12:00 PM,45,28,Mississippi State
+5,7:00 PM,14,9,California
+5,8:30 PM,38,21,New Mexico
+5,12:00 PM,52,14,Charlotte
+5,7:30 PM,31,14,Minnesota
+5,2:00 PM,52,7,Arkansas State
+5,3:00 PM,44,7,Southern Mississippi
+5,12:00 PM,70,50,North Carolina
+5,12:45 PM,41,6,Ohio
+5,6:00 PM,35,24,East Carolina
+5,3:45 PM,34,17,UCLA
+5,3:30 PM,31,19,Georgia Tech
+5,12:00 PM,38,20,Villanova
+5,3:30 PM,35,31,Central Connecticut State
+5,7:00 PM,50,15,South Florida
+5,3:30 PM,27,24,(11)Southern California
+5,7:45 PM,52,13,Georgia Southern
+5,4:15 PM,30,27,Vanderbilt
+5,6:00 PM,45,42,Florida International
+5,3:30 PM,56,44,Memphis
+5,3:00 PM,49,16,Eastern Washington
+5,7:00 PM,44,17,Wyoming
+5,3:30 PM,28,3,Miami (OH)
+5,12:00 PM,49,14,Marshall
+5,8:30 PM,38,21,Purdue
+5,3:30 PM,56,0,Kent State
+5,3:30 PM,73,17,Youngstown State
+5,3:30 PM,26,23,Virginia Tech
+5,7:00 PM,31,11,New Mexico State
+5,7:30 PM,50,7,Akron
+5,5:00 PM,66,42,Texas Christian
+5,2:00 PM,45,29,Utah State
+5,7:30 PM,25,15,(15)Oklahoma
+5,8:00 PM,51,3,Louisiana-Monroe
+5,7:30 PM,26,20,Bowling Green
+5,3:30 PM,30,22,Arizona State
+5,3:30 PM,45,7,Houston Baptist
+5,7:00 PM,34,12,Florida A&M
+5,12:00 PM,41,33,Louisiana
+5,7:00 PM,23,20,Louisiana Tech
+5,4:00 PM,22,19,(14)Oklahoma State
+5,2:00 PM,43,24,Coastal Carolina
+5,7:00 PM,24,5,Northwestern
+5,12:00 PM,32,28,Kansas
+5,7:00 PM,26,21,Toledo
+5,12:00 AM,36,7,Northern Iowa
+6,7:30 PM,42,14,Temple
+6,7:30 PM,38,34,Virginia Tech
+6,8:00 PM,21,18,Washington
+6,7:30 PM,41,34,(2)Georgia
+6,10:15 PM,23,10,(10)Utah
+6,10:00 PM,45,24,Washington State
+6,12:00 PM,21,20,Western Kentucky
+6,12:00 PM,34,28,Baylor
+6,3:30 PM,22,21,San Diego State
+6,7:00 PM,21,20,Rice
+6,7:00 PM,40,14,Stanford
+6,3:30 PM,48,21,Central Florida
+6,12:00 PM,47,3,Buffalo
+6,4:00 PM,21,20,North Carolina
+6,4:00 PM,30,20,Texas-San Antonio
+6,3:30 PM,52,33,Kent State
+6,6:00 PM,41,10,Wagner
+6,6:00 PM,17,10,Louisiana Tech
+6,3:30 PM,38,21,Georgia State
+6,12:00 PM,42,28,Maryland
+6,7:00 PM,20,0,Houston
+6,1:30 PM,63,7,Ball State
+6,12:00 PM,42,20,(20)Oklahoma State
+6,12:00 PM,20,17,(6)Mississippi
+6,3:30 PM,41,38,Wake Forest
+6,7:45 PM,42,10,South Alabama
+6,7:00 PM,13,9,Troy
+6,3:30 PM,27,20,Western Michigan
+6,7:30 PM,24,7,Middle Tennessee State
+6,3:30 PM,23,20,Massachusetts
+6,12:00 PM,27,24,Minnesota
+6,12:00 PM,41,18,Alabama-Birmingham
+6,12:00 PM,28,10,Purdue
+6,3:30 PM,59,14,Fresno State
+6,8:00 PM,50,40,New Mexico State
+6,12:00 PM,24,17,Northern Illinois
+6,7:00 PM,52,20,Tulsa
+6,3:30 PM,31,24,(15)Louisville
+6,3:30 PM,30,10,Akron
+6,7:00 PM,38,7,Michigan State
+6,3:40 PM,27,21,Auburn
+6,5:00 PM,30,27,Bowling Green
+6,11:00 PM,34,13,UCLA
+6,7:30 PM,21,7,(19)Illinois
+6,3:00 PM,40,39,Texas State
+6,3:30 PM,38,21,Wisconsin
+6,8:00 PM,42,16,Florida State
+6,12:00 PM,42,14,Holy Cross
+6,6:00 PM,24,13,Kennesaw State
+6,4:15 PM,35,13,Mississippi State
+6,3:30 PM,21,17,Arkansas
+6,3:30 PM,38,27,Kansas
+6,8:00 PM,44,41,Cincinnati
+6,12:00 PM,45,10,South Florida
+6,8:00 PM,31,19,Air Force
+7,9:00 PM,41,21,Texas-El Paso
+7,7:00 PM,38,17,Troy
+7,7:30 PM,30,19,Texas Christian
+7,7:00 PM,63,24,Kennesaw State
+7,9:00 PM,31,10,Michigan State
+7,9:00 PM,44,41,(25)Nevada-Las Vegas
+7,8:00 PM,35,31,Kansas
+7,7:30 PM,19,14,(4)Tennessee
+7,7:00 PM,18,16,South Alabama
+7,12:00 PM,49,7,Tulsa
+7,7:00 PM,62,30,Utah State
+7,3:30 PM,27,20,Akron
+7,3:30 PM,55,24,East Carolina
+7,7:00 PM,29,13,Florida State
+7,7:00 PM,45,37,Old Dominion
+7,3:30 PM,29,20,Temple
+7,7:45 PM,24,13,Central Florida
+7,3:30 PM,31,13,Auburn
+7,8:00 PM,24,14,Duke
+7,3:30 PM,41,24,Northwestern
+7,7:30 PM,43,21,Baylor
+7,7:00 PM,23,13,Southern Mississippi
+7,7:00 PM,21,19,James Madison
+7,3:30 PM,52,37,Appalachian State
+7,10:30 PM,39,38,California
+7,7:30 PM,24,17,(11)Southern California
+7,3:30 PM,27,3,South Carolina
+7,12:00 PM,34,7,Air Force
+7,4:00 PM,14,7,Rutgers
+7,12:00 PM,34,20,Massachusetts
+7,3:30 PM,35,7,Iowa
+7,6:30 PM,39,31,Colorado State
+7,12:00 PM,27,11,UCLA
+7,12:00 PM,34,24,North Carolina
+7,8:00 PM,27,24,Hawaii
+7,7:30 PM,35,31,Nevada
+7,12:00 PM,34,27,(22)Louisville
+7,12:00 PM,41,10,(9)Missouri
+7,11:00 PM,28,22,Arizona
+7,3:30 PM,30,20,Miami (OH)
+7,1:00 PM,71,20,Alabama-Birmingham
+7,4:15 PM,40,35,(1)Alabama
+7,12:00 PM,24,14,Boston College
+7,3:30 PM,31,7,Stanford
+7,12:00 PM,34,30,North Carolina State
+7,7:30 PM,27,17,(10)Michigan
+7,4:00 PM,38,14,Oklahoma State
+7,2:00 PM,45,42,Ball State
+7,12:00 PM,52,6,Purdue
+8,7:00 PM,31,24,Florida International
+8,7:30 PM,54,13,New Mexico State
+8,7:30 PM,39,7,Coastal Carolina
+8,8:00 PM,48,21,Middle Tennessee State
+8,8:00 PM,44,17,Texas-El Paso
+8,10:30 PM,27,19,(16)Utah
+8,9:00 PM,50,34,Utah State
+8,8:00 PM,37,10,Maryland
+8,12:00 PM,27,25,South Carolina
+8,12:00 PM,44,10,Alabama-Birmingham
+8,12:00 PM,37,35,Kent State
+8,11:00 PM,28,7,Hawaii
+8,4:00 PM,41,19,Arizona
+8,12:00 PM,30,15,Toledo
+8,3:30 PM,19,13,Central Florida
+8,12:00 PM,49,14,Wake Forest
+8,3:30 PM,31,24,San Jose State
+8,4:15 PM,41,31,Mississippi State
+8,8:00 PM,24,23,Marshall
+8,12:00 PM,41,34,North Carolina
+8,3:30 PM,50,49,Purdue
+8,12:00 PM,40,16,Washington
+8,8:00 PM,28,16,West Virginia
+8,10:15 PM,31,28,Colorado
+8,7:30 PM,34,24,Appalachian State
+8,7:30 PM,29,26,(9)Mississippi
+8,5:00 PM,38,21,Southern Mississippi
+8,3:30 PM,24,20,Virginia
+8,3:30 PM,21,3,South Florida
+8,2:00 PM,38,14,Eastern Michigan
+8,9:00 PM,21,17,UCLA
+8,12:00 PM,45,3,Massachusetts
+8,7:30 PM,42,37,Oregon State
+8,7:00 PM,52,37,Air Force
+8,7:00 PM,41,37,Florida Atlantic
+8,3:30 PM,17,7,Bowling Green
+8,3:30 PM,49,7,Stanford
+8,4:00 PM,27,25,Central Michigan
+8,3:30 PM,21,14,Georgia State
+8,7:30 PM,32,31,(2)Ohio State
+8,3:30 PM,33,30,Southern California
+8,3:30 PM,17,15,California
+8,7:00 PM,29,27,Texas-San Antonio
+8,3:30 PM,27,24,Wyoming
+8,8:00 PM,24,17,North Carolina State
+8,7:00 PM,23,17,Florida
+8,3:30 PM,34,3,(18)Oklahoma
+8,7:00 PM,41,9,Arkansas State
+8,7:45 PM,20,13,Kentucky
+8,7:00 PM,25,17,Fresno State
+8,3:30 PM,34,24,Akron
+8,12:00 PM,42,7,Rutgers
+9,8:00 PM,14,5,Kennesaw State
+9,9:00 PM,33,30,Louisiana Tech
+9,7:30 PM,25,9,Troy
+9,9:00 PM,30,21,Florida International
+9,7:00 PM,31,14,Sam Houston
+9,7:00 PM,35,20,Georgia State
+9,7:30 PM,42,21,Boston College
+9,10:15 PM,38,35,Oklahoma State
+9,7:00 PM,23,16,Florida State
+9,10:30 PM,24,21,Nevada
+9,8:00 PM,35,0,Purdue
+9,7:00 PM,44,28,Southern Mississippi
+9,12:00 PM,45,28,East Carolina
+9,4:00 PM,59,35,Texas Tech
+9,3:30 PM,27,6,Kent State
+9,12:00 PM,24,14,Arizona State
+9,12:00 PM,48,31,Virginia
+9,4:00 PM,34,7,Arizona
+9,8:00 PM,21,13,Air Force
+9,2:00 PM,38,34,Central Michigan
+9,7:45 PM,48,20,Kentucky
+9,7:30 PM,30,15,(1)Texas
+9,4:00 PM,28,14,James Madison
+9,3:30 PM,21,7,(24)Michigan
+9,12:00 PM,56,7,Nebraska
+9,7:30 PM,38,35,Central Florida
+9,3:30 PM,42,14,Houston
+9,7:30 PM,45,18,West Virginia
+9,12:00 PM,34,24,Coastal Carolina
+9,7:00 PM,34,10,Arkansas
+9,4:00 PM,29,28,Southern California
+9,7:30 PM,52,44,North Texas
+9,12:00 PM,52,45,Louisville
+9,3:30 PM,30,20,Ohio
+9,7:30 PM,32,20,Iowa
+9,12:00 PM,21,17,Auburn
+9,3:30 PM,51,17,Charlotte
+9,10:00 PM,33,25,Oregon State
+9,4:00 PM,50,45,Utah State
+9,3:30 PM,24,23,California
+9,3:30 PM,31,13,Georgia Tech
+9,3:30 PM,24,14,Texas State
+9,4:00 PM,24,14,Wyoming
+9,12:45 PM,35,9,Oklahoma
+9,3:30 PM,35,25,Alabama-Birmingham
+9,8:00 PM,40,10,Stanford
+9,2:00 PM,20,10,Tulsa
+9,3:30 PM,24,17,(7)Alabama
+9,4:15 PM,34,24,Mississippi State
+9,10:30 PM,13,7,Utah
+9,3:30 PM,38,24,Florida Atlantic
+9,3:30 PM,13,6,Northern Illinois
+9,3:30 PM,24,10,Rice
+9,12:00 PM,35,32,Rutgers
+9,7:00 PM,24,14,Ball State
+9,12:00 PM,23,20,Connecticut
+9,3:30 PM,42,10,Hawaii
+9,3:30 PM,48,41,Buffalo
+9,12:00 PM,23,3,Northwestern
+10,7:30 PM,,,Florida International
+10,8:00 PM,,,Louisiana Tech
+10,7:00 PM,,,Kennesaw State
+10,7:30 PM,,,Jacksonville State
+10,7:00 PM,,,Old Dominion
+10,7:30 PM,,,(19)Pittsburgh
+10,10:30 PM,,,Nevada-Las Vegas
+10,7:30 PM,,,Boston College
+10,11:00 PM,,,Southern California
+10,12:45 PM,,,Mississippi State
+10,7:45 PM,,,Kentucky
+10,3:30 PM,,,Toledo
+10,TBD,,,Central Florida
+10,12:00 PM,,,Ohio
+10,2:00 PM,,,Miami (OH)
+10,12:00 PM,,,Memphis
+10,10:15 PM,,,Colorado
+10,3:30 PM,,,Akron
+10,7:00 PM,,,(6)Miami (FL)
+10,TBD,,,Appalachian State
+10,12:00 PM,,,Virginia Tech
+10,3:30 PM,,,(1)Oregon
+10,TBD,,,(16)Kansas State
+10,3:30 PM,,,Western Michigan
+10,TBD,,,(14)Texas A&M
+10,5:00 PM,,,South Alabama
+10,3:30 PM,,,Minnesota
+10,7:30 PM,,,Michigan
+10,TBD,,,(15)Alabama
+10,12:00 PM,,,(4)Ohio State
+10,5:00 PM,,,Colorado State
+10,12:00 PM,,,Virginia
+10,3:30 PM,,,Ball State
+10,3:30 PM,,,Iowa
+10,12:00 PM,,,(24)Navy
+10,12:00 PM,,,(18)Mississippi
+10,3:30 PM,,,Baylor
+10,4:00 PM,,,California
+10,7:30 PM,,,Wisconsin
+10,3:30 PM,,,Connecticut
+10,8:00 PM,,,Fresno State
+10,8:00 PM,,,Duke
+10,3:30 PM,,,James Madison
+10,2:00 PM,,,East Carolina
+10,TBD,,,(25)Vanderbilt
+10,TBD,,,Texas Christian
+10,3:30 PM,,,Tulsa
+10,7:00 PM,,,Arkansas State
+10,12:00 PM,,,North Texas
+10,TBD,,,Houston
+10,7:00 PM,,,Wyoming
+10,3:30 PM,,,Massachusetts
+10,3:30 PM,,,Stanford
+10,12:00 PM,,,(13)Indiana
+10,10:30 PM,,,San Diego State
+10,TBD,,,Arizona
+10,12:00 AM,,,Hawaii
+11,7:30 PM,,,Texas State
+11,8:00 PM,,,Sam Houston
+11,7:00 PM,,,Florida International
+11,7:00 PM,,,Liberty
+11,7:30 PM,,,Western Kentucky
+11,7:30 PM,,,Charlotte
+11,7:00 PM,,,Connecticut
+11,8:00 PM,,,(17)Boise State
+11,7:30 PM,,,Florida Atlantic
+11,12:00 PM,,,(23)Army
+11,TBD,,,Central Florida
+11,TBD,,,Oklahoma State
+11,TBD,,,Akron
+11,TBD,,,Troy
+11,8:00 PM,,,Nevada
+11,TBD,,,(6)Miami (FL)
+11,3:30 PM,,,Florida
+11,TBD,,,South Alabama
+11,7:00 PM,,,Fresno State
+11,TBD,,,Michigan State
+11,TBD,,,Houston
+11,TBD,,,(7)Tennessee
+11,TBD,,,Marshall
+11,TBD,,,(9)Clemson
+11,2:30 PM,,,Oklahoma
+11,4:15 PM,,,Mississippi State
+11,TBD,,,Texas-San Antonio
+11,3:30 PM,,,Texas-El Paso
+11,TBD,,,(20)Illinois
+11,TBD,,,Arkansas
+11,TBD,,,Rice
+11,TBD,,,Florida State
+11,TBD,,,Purdue
+11,TBD,,,(3)Penn State
+11,TBD,,,Appalachian State
+11,TBD,,,Michigan
+11,TBD,,,(22)Southern Methodist
+11,TBD,,,Washington
+11,TBD,,,North Carolina State
+11,TBD,,,South Carolina
+11,TBD,,,Baylor
+11,TBD,,,(10)Iowa State
+11,TBD,,,Eastern Michigan
+11,TBD,,,Alabama-Birmingham
+11,TBD,,,Nebraska
+11,TBD,,,Auburn
+11,TBD,,,Syracuse
+11,TBD,,,Iowa
+11,4:00 PM,,,New Mexico
+12,TBD,,,Central Michigan
+12,TBD,,,Ball State
+12,7:00 PM,,,Western Michigan
+12,7:00 PM,,,Kent State
+12,8:00 PM,,,Coastal Carolina
+12,8:00 PM,,,East Carolina
+12,8:00 PM,,,Wake Forest
+12,9:00 PM,,,UCLA
+12,10:30 PM,,,San Diego State
+12,9:00 PM,,,Memphis
+12,TBD,,,(8)Louisiana State
+12,TBD,,,Louisiana
+12,TBD,,,North Texas
+12,TBD,,,Utah
+12,TBD,,,Arizona State
+12,TBD,,,Virginia Tech
+12,TBD,,,Texas Tech
+12,TBD,,,Alabama-Birmingham
+12,TBD,,,North Carolina State
+12,12:00 PM,,,(5)Texas
+12,7:30 PM,,,(12)Notre Dame
+12,TBD,,,Air Force
+12,TBD,,,(18)Mississippi
+12,TBD,,,James Madison
+12,TBD,,,Kansas
+12,4:30 PM,,,Louisiana Tech
+12,4:00 PM,,,Texas-El Paso
+12,1:00 PM,,,Middle Tennessee State
+12,TBD,,,Southern Mississippi
+12,TBD,,,(1)Oregon
+12,TBD,,,Georgia Tech
+12,TBD,,,(13)Indiana
+12,TBD,,,Rutgers
+12,TBD,,,(7)Tennessee
+12,TBD,,,South Florida
+12,TBD,,,(17)Boise State
+12,9:00 PM,,,Hawaii
+12,TBD,,,(21)Missouri
+12,TBD,,,Texas Christian
+12,TBD,,,(4)Ohio State
+12,TBD,,,Oregon State
+12,TBD,,,(25)Vanderbilt
+12,TBD,,,Boston College
+12,TBD,,,Tulane
+12,TBD,,,Louisiana-Monroe
+12,TBD,,,Washington State
+12,TBD,,,(19)Pittsburgh
+12,TBD,,,(3)Penn State
+12,TBD,,,Cincinnati
+12,6:00 PM,,,New Mexico State
+13,7:00 PM,,,Buffalo
+13,7:00 PM,,,Toledo
+13,7:00 PM,,,Bowling Green
+13,7:00 PM,,,Northern Illinois
+13,7:00 PM,,,Ohio
+13,7:00 PM,,,Miami (OH)
+13,7:30 PM,,,Tulsa
+13,10:15 PM,,,Arizona
+13,9:00 PM,,,Texas-San Antonio
+13,9:00 PM,,,Washington
+13,8:00 PM,,,Colorado State
+13,TBD,,,Memphis
+13,TBD,,,(16)Kansas State
+13,TBD,,,Georgia State
+13,TBD,,,West Virginia
+13,7:00 PM,,,San Jose State
+13,TBD,,,(22)Southern Methodist
+13,TBD,,,(10)Iowa State
+13,TBD,,,(19)Pittsburgh
+13,TBD,,,Marshall
+13,TBD,,,Temple
+13,2:00 PM,,,Jacksonville State
+13,3:00 PM,,,Utah State
+13,TBD,,,Old Dominion
+13,TBD,,,(11)Brigham Young
+13,TBD,,,Massachusetts
+13,TBD,,,Florida
+13,12:00 PM,,,Western Kentucky
+13,12:45 PM,,,Auburn
+13,TBD,,,Stanford
+13,2:00 PM,,,(15)Alabama
+13,TBD,,,(20)Illinois
+13,TBD,,,South Carolina
+13,1:30 PM,,,Kentucky
+13,TBD,,,Southern California
+13,7:45 PM,,,(14)Texas A&M
+13,TBD,,,Northwestern
+13,TBD,,,Wisconsin
+13,3:30 PM,,,Air Force
+13,TBD,,,Purdue
+13,TBD,,,Maryland
+13,3:00 PM,,,Kennesaw State
+13,10:30 PM,,,Nevada-Las Vegas
+13,TBD,,,Louisiana
+13,TBD,,,Charlotte
+13,TBD,,,Texas State
+13,TBD,,,California
+13,TBD,,,(2)Georgia
+13,12:00 PM,,,Arkansas
+13,TBD,,,Georgia Southern
+13,12:00 PM,,,(24)Navy
+13,TBD,,,Colorado
+13,3:30 PM,,,(12)Notre Dame
+13,TBD,,,North Carolina
+13,TBD,,,New Mexico
+14,TBD,,,Kent State
+14,TBD,,,Miami (OH)
+14,TBD,,,Central Michigan
+14,7:00 PM,,,Eastern Michigan
+14,7:00 PM,,,Toledo
+14,7:30 PM,,,Georgia Tech
+14,TBD,,,San Jose State
+14,TBD,,,Michigan State
+14,7:00 PM,,,Texas-San Antonio
+14,TBD,,,Nevada
+14,TBD,,,Oklahoma
+14,TBD,,,Texas Christian
+14,7:00 PM,,,(12)Notre Dame
+14,TBD,,,Houston
+14,7:00 PM,,,Wyoming
+14,TBD,,,Ball State
+14,TBD,,,Arizona State
+14,TBD,,,West Virginia
+14,TBD,,,Florida State
+14,TBD,,,Florida Atlantic
+14,TBD,,,(16)Kansas State
+14,TBD,,,(9)Clemson
+14,TBD,,,Kansas
+14,10:30 PM,,,Fresno State
+14,TBD,,,Syracuse
+14,TBD,,,North Texas
+14,3:00 PM,,,Kennesaw State
+14,TBD,,,Coastal Carolina
+14,TBD,,,Texas State
+14,TBD,,,Rutgers
+14,TBD,,,(4)Ohio State
+14,TBD,,,Maryland
+14,TBD,,,Utah
+14,TBD,,,Appalachian State
+14,TBD,,,(5)Texas
+14,TBD,,,Arkansas
+14,3:00 PM,,,Arkansas State
+14,TBD,,,Old Dominion
+14,12:45 PM,,,(2)Georgia
+14,12:00 PM,,,Florida
+14,TBD,,,Mississippi State
+14,2:30 PM,,,Middle Tennessee State
+14,TBD,,,Boston College
+14,TBD,,,Michigan
+14,TBD,,,Minnesota
+14,TBD,,,Louisville
+14,TBD,,,Alabama-Birmingham
+14,12:00 PM,,,Jacksonville State
+14,3:30 PM,,,Utah State
+14,TBD,,,Southern Mississippi
+14,TBD,,,UCLA
+14,TBD,,,Virginia
+14,TBD,,,California
+14,TBD,,,Auburn
+14,TBD,,,Oklahoma State
+14,1:00 PM,,,(7)Tennessee
+14,TBD,,,Louisiana
+14,TBD,,,South Florida
+14,TBD,,,(8)Louisiana State
+14,TBD,,,Duke
+14,TBD,,,(6)Miami (FL)
+14,6:30 PM,,,Oregon State
+14,1:00 PM,,,Liberty
+14,TBD,,,Nebraska
+14,4:00 PM,,,South Carolina
+15,7:00 PM,,,Buffalo
+15,7:00 PM,,,Akron
+15,7:30 PM,,,Tulane
+15,TBD,,,Charlotte
+15,TBD,,,Ohio
+15,7:30 PM,,,(2)Georgia
+15,3:30 PM,,,Sam Houston
+15,12:00 PM,,,Bowling Green
+15,12:00 PM,,,Wisconsin
+15,3:30 PM,,,(18)Mississippi
+15,TBD,,,East Carolina
+15,7:30 PM,,,Iowa
+15,12:00 PM,,,Colorado
+15,4:00 PM,,,San Jose State
+15,3:30 PM,,,South Alabama
+15,8:00 PM,,,Central Florida
+15,TBD,,,Colorado State
+15,TBD,,,San Diego State
+15,TBD,,,Georgia Southern
+15,TBD,,,Arizona
+15,TBD,,,(21)Missouri
+15,TBD,,,(15)Alabama
+15,TBD,,,(22)Southern Methodist
+15,TBD,,,Northern Illinois
+15,TBD,,,Georgia State
+15,TBD,,,Massachusetts
+15,TBD,,,Wake Forest
+15,TBD,,,Western Michigan
+15,TBD,,,Florida State
+15,TBD,,,Tulsa
+15,TBD,,,UCLA
+15,TBD,,,(11)Brigham Young
+15,TBD,,,Northwestern
+15,3:30 PM,,,Western Kentucky
+15,TBD,,,Baylor
+15,TBD,,,(10)Iowa State
+15,3:00 PM,,,Louisiana Tech
+15,TBD,,,Louisiana-Monroe
+15,TBD,,,Kentucky
+15,TBD,,,James Madison
+15,TBD,,,(3)Penn State
+15,TBD,,,Syracuse
+15,12:00 PM,,,(4)Ohio State
+15,2:00 PM,,,Florida International
+15,8:00 PM,,,Nevada-Las Vegas
+15,11:00 PM,,,Hawaii
+15,TBD,,,North Carolina
+15,TBD,,,Temple
+15,TBD,,,Southern California
+15,TBD,,,(8)Louisiana State
+15,3:00 PM,,,Arkansas State
+15,12:00 PM,,,(17)Boise State
+15,TBD,,,Boston College
+15,TBD,,,(13)Indiana
+15,TBD,,,Michigan State
+15,TBD,,,(9)Clemson
+15,TBD,,,Rice
+15,TBD,,,Troy
+15,TBD,,,(25)Vanderbilt
+15,TBD,,,(14)Texas A&M
+15,TBD,,,Cincinnati
+15,4:00 PM,,,New Mexico State
+15,12:00 PM,,,(23)Army
+15,TBD,,,Virginia Tech
+15,TBD,,,(1)Oregon
+15,TBD,,,Texas Tech
+15,6:30 PM,,,Washington State
+16,3:00 PM,,,(24)Navy
