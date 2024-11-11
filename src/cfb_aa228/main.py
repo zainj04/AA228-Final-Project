@@ -7,12 +7,16 @@ def load_data():
     # Load the schedule CSV into a DataFrame
     schedule_df = pd.read_csv("college_football_schedule_2024.csv")
     
+    # Convert date to datetime for easy comparison
+    schedule_df['date'] = pd.to_datetime(schedule_df['date'], format="%b %d, %Y")
+    
     # Load the betting odds JSON file
     with open("api_response.json") as f:
         api_data = json.load(f)
     
     # Convert JSON data to DataFrame for easier filtering and merging
     api_df = pd.json_normalize(api_data, 'bookmakers', ['home_team', 'away_team', 'commence_time'], errors='ignore')
+    api_df['commence_time'] = pd.to_datetime(api_df['commence_time'])
     return schedule_df, api_df
 
 # Get all games up to the requested week for the specified team
@@ -37,7 +41,7 @@ def get_team_schedule(schedule_df, api_df, team_name, week_number):
         betting_info = api_df[
             (api_df['home_team'] == game['team1']) & 
             (api_df['away_team'] == game['team2']) & 
-            (api_df['commence_time'].str.contains(game_date))
+            (api_df['commence_time'].dt.date == game_date.date())
         ]
 
         # Display betting odds and spread if available
@@ -49,11 +53,11 @@ def get_team_schedule(schedule_df, api_df, team_name, week_number):
             moneyline = "---"
         
         # Check if the game has already occurred
-        game_result = game['result'] if 'result' in game else '---'
+        game_result = f"{game['team1_score']} - {game['team2_score']}" if 'team1_score' in game else '---'
 
         # Add game details to the report
         report += (
-            f"Week {game['week']} - {game_date}\n"
+            f"Week {game['week']} - {game_date.strftime('%b %d, %Y')}\n"
             f"Opponent: {opponent}\n"
             f"Spread: {spread}, Moneyline: {moneyline}\n"
             f"Result: {game_result}\n\n"
@@ -68,7 +72,7 @@ def main():
     schedule_df, api_df = load_data()
     
     # Get user input
-    team_name = input("Enter team name (e.g., 'Stanford Cardinal'): ")
+    team_name = input("Enter team name (e.g., 'Stanford'): ")
     week_number = int(input("Enter week number (e.g., '1'): "))
     
     # Generate and display the team's schedule up to the requested week
