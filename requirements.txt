@@ -1,6 +1,0 @@
-sportsipy
-pandas
-networkx
-matplotlib
-beautifulsoup4
-requests

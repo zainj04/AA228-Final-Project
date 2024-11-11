@@ -1,78 +1,78 @@
 import pandas as pd
-import re
-from generate_schedules import generate_schedules
-from scrape_odds_data import fetch_odds_data
+import json
 from datetime import datetime
-import os
 
-# Mapping dictionary for team name standardization
-team_name_mapping = {
-    "Alabama": "Alabama Crimson Tide",
-    "Arkansas": "Arkansas Razorbacks",
-    "Auburn": "Auburn Tigers",
-    "Florida": "Florida Gators",
-    "Georgia": "Georgia Bulldogs",
-    "Kentucky": "Kentucky Wildcats",
-    "LSU": "LSU Tigers",
-    "Mississippi State": "Mississippi State Bulldogs",
-    "Missouri": "Missouri Tigers",
-    "Oklahoma": "Oklahoma Sooners",
-    "Ole Miss": "Ole Miss Rebels",
-    "South Carolina": "South Carolina Gamecocks",
-    "Tennessee": "Tennessee Volunteers",
-    "Texas": "Texas Longhorns",
-    "Texas A&M": "Texas A&M Aggies",
-    "Vanderbilt": "Vanderbilt Commodores",
-    "Miami (FL)": "Miami Hurricanes",
-    "Southern Mississippi": "Southern Mississippi Golden Eagles",
-    "Clemson": "Clemson Tigers",
-    # Add more mappings as needed
-}
-
-def main():
-    # Generate or load the schedule data
-    schedule_df = generate_schedules()
+# Load CSV and JSON data
+def load_data():
+    # Load the schedule CSV into a DataFrame
+    schedule_df = pd.read_csv("college_football_schedule_2024.csv")
     
-    # Clean and standardize team names in schedule data
-    schedule_df['team1'] = schedule_df['team1'].apply(lambda x: re.sub(r"\(\d+\)", "", x).strip())
-    schedule_df['team2'] = schedule_df['team2'].apply(lambda x: re.sub(r"\(\d+\)", "", x).strip())
-    schedule_df['team1'] = schedule_df['team1'].replace(team_name_mapping)
-    schedule_df['team2'] = schedule_df['team2'].replace(team_name_mapping)
+    # Load the betting odds JSON file
+    with open("api_response.json") as f:
+        api_data = json.load(f)
+    
+    # Convert JSON data to DataFrame for easier filtering and merging
+    api_df = pd.json_normalize(api_data, 'bookmakers', ['home_team', 'away_team', 'commence_time'], errors='ignore')
+    return schedule_df, api_df
 
-    # Initialize a DataFrame to store the full season's schedule and odds data
-    full_season_data = pd.DataFrame()
+# Get all games up to the requested week for the specified team
+def get_team_schedule(schedule_df, api_df, team_name, week_number):
+    # Filter the schedule for games with the team up to the requested week
+    team_schedule = schedule_df[
+        ((schedule_df['team1'] == team_name) | (schedule_df['team2'] == team_name)) &
+        (schedule_df['week'] <= week_number)
+    ]
 
-    # Iterate through each week and fetch odds data
-    for week in sorted(schedule_df['week'].unique()):
-        # Fetch or load odds data for the current week
-        odds_filename = f"betting_odds_week_{week}.csv"
-        if os.path.exists(odds_filename):
-            print(f"Loading betting data from {odds_filename}")
-            odds_df = pd.read_csv(odds_filename)
+    # Initialize report string
+    report = f"Schedule for {team_name} up to Week {week_number}:\n\n"
+
+    # Iterate through each game in the filtered schedule
+    for _, game in team_schedule.iterrows():
+        # Determine if the team is home or away
+        is_home = game['team1'] == team_name
+        opponent = game['team2'] if is_home else game['team1']
+        
+        # Get betting info from the API data
+        game_date = game['date']
+        betting_info = api_df[
+            (api_df['home_team'] == game['team1']) & 
+            (api_df['away_team'] == game['team2']) & 
+            (api_df['commence_time'].str.contains(game_date))
+        ]
+
+        # Display betting odds and spread if available
+        if not betting_info.empty:
+            spread = betting_info['markets'][0].get('outcomes', [{}])[0].get('point', 'N/A')
+            moneyline = betting_info['markets'][0].get('outcomes', [{}])[0].get('price', 'N/A')
         else:
-            print(f"Fetching betting data for week {week}")
-            odds_df = fetch_odds_data(week)
-            odds_df.to_csv(odds_filename, index=False)  # Save for future use
+            spread = "---"
+            moneyline = "---"
+        
+        # Check if the game has already occurred
+        game_result = game['result'] if 'result' in game else '---'
 
-        # Merge schedule and odds data
-        week_data = schedule_df[schedule_df['week'] == week].merge(
-            odds_df[['home_team', 'away_team', 'home_odds', 'away_odds', 'home_spread']],
-            left_on=['team1', 'team2'], right_on=['home_team', 'away_team'], how='left'
+        # Add game details to the report
+        report += (
+            f"Week {game['week']} - {game_date}\n"
+            f"Opponent: {opponent}\n"
+            f"Spread: {spread}, Moneyline: {moneyline}\n"
+            f"Result: {game_result}\n\n"
         )
 
-        # Standardize column names and select relevant columns
-        week_data = week_data.rename(columns={
-            'team1': 'home_team', 'team2': 'away_team',
-            'home_odds': 'line1', 'away_odds': 'line2', 'home_spread': 'spread'
-        })[['week', 'date', 'home_team', 'away_team', 'line1', 'line2', 'spread']]
+    # Print the final report to standard output
+    print(report)
 
-        # Append to the full season data
-        full_season_data = pd.concat([full_season_data, week_data], ignore_index=True)
-
-    # Save the full season data to a CSV
-    full_season_data.to_csv("full_season_schedule_with_odds.csv", index=False)
-    print("Full season data saved to full_season_schedule_with_odds.csv")
-    print(full_season_data.head())
+# Main function to execute the logic
+def main():
+    # Load data
+    schedule_df, api_df = load_data()
+    
+    # Get user input
+    team_name = input("Enter team name (e.g., 'Stanford Cardinal'): ")
+    week_number = int(input("Enter week number (e.g., '1'): "))
+    
+    # Generate and display the team's schedule up to the requested week
+    get_team_schedule(schedule_df, api_df, team_name, week_number)
 
 if __name__ == "__main__":
     main()
