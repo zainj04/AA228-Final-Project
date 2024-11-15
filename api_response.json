@@ -306,7 +306,7 @@
         "sport_title": "NCAAF",
         "commence_time": "2024-11-13T00:00:00Z",
         "home_team": "Bowling Green Falcons",
-        "away_team": "Western Michigan Broncos",
+        "away_team": "western Michigan Broncos",
         "bookmakers": [
             {
                 "key": "fanduel",
