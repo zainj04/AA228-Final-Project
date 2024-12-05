@@ -1,9 +1,0 @@
-\section{Methodology}
-    \subsection{Data Collection}
-    Data from collegefootballdata.com, including Moneyline odds, spreads, and outcomes, will be used. Key variables include weekly odds, game results, and point spreads.
-
-    \subsection{Problem Formulation as an MDP}
-    We define the problem as an MDP where each week is a state, and each betting decision (for or against) represents an action. We use the Bellman equation with linearly decaying past rewards to adjust weekly probabilities.
-    
-    \subsection{Alternative Approaches}
-    We considered a Multi-Armed Bandit approach; however, MDP is chosen to account for the sequential influence of past games.
