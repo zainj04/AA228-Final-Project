@@ -1,0 +1,12 @@
+Game Id,School,fumblesRecovered,rushingTDs,puntReturnYards,puntReturnTDs,puntReturns,passingTDs,kickReturnYards,kickReturnTDs,kickReturns,kickingPoints,tacklesForLoss,defensiveTDs,tackles,sacks,qbHurries,passesDeflected,possessionTime,interceptions,fumblesLost,turnovers,totalPenaltiesYards,yardsPerRushAttempt,rushingAttempts,rushingYards,yardsPerPass,completionAttempts,netPassingYards,totalYards,fourthDownEff,thirdDownEff,firstDowns,interceptionYards,interceptionTDs,passesIntercepted,totalFumbles
+401403980,Stanford,0,3,0,0,0,1,90,0,4,4,5,0,38,3,3,1,29:27,2,2,4,5-42,4.9,45,221,6.3,20-35,220,441,3-5,5-13,33,0,0,0,2
+401404001,Stanford,0,0,8,0,2,3,106,0,6,2,4,0,36,0,0,3,26:30,1,2,3,2-23,2.4,36,86,11.0,17-26,286,372,1-2,5-12,18,0,0,0,2
+401404005,Stanford,0,0,11,0,1,3,94,0,4,9,5,0,31,1,0,6,32:36,0,1,1,5-48,3.7,34,127,5.4,22-38,205,332,1-2,5-16,22,3,0,1,3
+401404010,Stanford,0,1,19,0,2,2,42,0,2,9,8,0,34,4,2,1,26:18,1,0,1,7-75,3.3,27,90,7.9,20-34,269,359,0-0,5-12,19,0,0,0,0
+401404016,Stanford,4,1,0,0,0,0,35,0,2,10,6,0,23,2,0,6,36:07,0,0,0,2-12,2.3,42,97,7.4,26-39,288,385,0-2,7-16,21,0,0,0,2
+401404018,Stanford,0,0,5,0,1,0,48,0,2,15,10,0,29,4,4,3,31:38,1,0,1,6-60,3.1,25,78,5.5,33-58,320,398,0-1,9-19,28,0,0,1,1
+401404025,Stanford,2,0,3,0,1,1,57,0,2,7,7,0,49,3,1,2,31:27,1,0,1,3-25,4.3,34,145,4.0,15-31,125,270,1-1,4-13,18,0,0,0,1
+401404032,Stanford,0,2,10,0,1,0,152,0,8,2,5,0,33,0,3,4,29:49,0,4,4,5-35,2.5,28,71,6.3,25-42,266,337,0-2,4-12,19,0,0,0,5
+401404038,Stanford,0,1,0,0,0,0,100,0,5,1,4,0,38,1,0,3,25:29,0,0,0,5-45,0.8,26,22,6.2,12-25,155,177,1-2,3-14,9,0,0,1,0
+401404041,Stanford,0,1,-1,0,1,1,38,0,4,8,6,0,38,1,4,2,33:54,1,1,2,7-60,4.0,32,129,5.6,29-48,271,400,1-1,4-15,22,0,0,2,3
+401404049,Stanford,0,2,2,0,1,1,90,0,5,6,2,0,21,0,0,1,27:33,0,0,0,6-50,2.8,19,53,7.6,32-42,318,371,2-2,7-13,20,0,0,0,0

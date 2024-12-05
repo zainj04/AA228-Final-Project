@@ -1,0 +1,13 @@
+Id,HomeTeam,HomeScore,AwayTeam,AwayScore,LineProvider,OverUnder,Spread,FormattedSpread,OpeningSpread,OpeningOverUnder,HomeMoneyline,AwayMoneyline
+401282080,Vanderbilt,23,Stanford,41,Bovada,48.5,13.0,Stanford -13.0,11.0,48.5,345.0,-470.0
+401282711,Stanford,14,Notre Dame,45,Bovada,53.0,20.0,Notre Dame -20.0,17.5,52.5,750.0,-1400.0
+401287889,Kansas State,24,Stanford,7,Bovada,54.0,-3.5,Kansas State -3.5,0.0,52.5,-160.0,140.0
+401309843,USC,28,Stanford,42,Bovada,53.5,-17.0,USC -17.0,-17.5,51.0,-1000.0,600.0
+401309858,Stanford,24,UCLA,35,Bovada,60.0,4.0,UCLA -4.0,3.5,59.0,160.0,-185.0
+401309864,Stanford,31,Oregon,24,Bovada,57.5,8.5,Oregon -8.5,7.0,58.5,255.0,-310.0
+401309868,Arizona State,28,Stanford,10,Bovada,53.5,-13.5,Arizona State -13.5,-10.5,52.0,-520.0,375.0
+401309873,Washington State,34,Stanford,31,Bovada,53.0,-1.0,Washington State -1.0,2.5,50.5,-115.0,-105.0
+401309883,Stanford,13,Washington,20,Bovada,46.0,-3.0,Stanford -3.0,-2.5,48.0,-145.0,125.0
+401309888,Stanford,7,Utah,52,Bovada,52.0,10.0,Utah -10.0,6.5,52.5,265.0,-330.0
+401309894,Oregon State,35,Stanford,14,Bovada,56.0,-13.0,Oregon State -13.0,-10.0,56.0,-480.0,350.0
+401309900,Stanford,11,California,41,Bovada,45.5,2.5,California -2.5,3.5,43.5,115.0,-135.0

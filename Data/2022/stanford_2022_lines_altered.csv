@@ -1,0 +1,12 @@
+Id,HomeTeam,HomeScore,AwayTeam,AwayScore,LineProvider,OverUnder,Spread,FormattedSpread,OpeningSpread,OpeningOverUnder,HomeMoneyline,AwayMoneyline
+401403980,Stanford,28,USC,41,Bovada,67.0,9.5,USC -9.5,10.0,65.0,255.0,-310.0
+401404001,Washington,40,Stanford,22,Bovada,62.0,-14.0,Washington -14.0,-11.5,61.0,-550.0,390.0
+401404005,Oregon,45,Stanford,27,Bovada,63.0,-17.5,Oregon -17.5,-16.0,62.5,-750.0,500.0
+401404010,Stanford,27,Oregon State,28,Bovada,53.0,4.0,Oregon State -4.0,7.0,58.5,170.0,-200.0
+401404016,Notre Dame,14,Stanford,16,Bovada,53.0,-16.5,Notre Dame -16.5,-15.0,52.5,-750.0,500.0
+401404018,Stanford,15,Arizona State,14,Bovada,52.5,-3.0,Stanford -3.0,-3.5,54.5,-150.0,130.0
+401404025,UCLA,38,Stanford,13,Bovada,64.5,-16.5,UCLA -16.5,-16.0,63.5,-800.0,525.0
+401404032,Stanford,14,Washington State,52,Bovada,48.0,3.0,Washington State -3.0,4.5,48.5,170.0,
+401404038,Utah,42,Stanford,7,Bovada,54.0,-24.0,Utah -24.0,-23.0,53.0,-2800.0,1100.0
+401404041,California,27,Stanford,20,Bovada,45.5,-5.0,California -5.0,-5.5,46.5,-220.0,180.0
+401404049,Stanford,26,BYU,35,Bovada,58.0,6.5,BYU -6.5,7.0,58.0,210.0,-250.0

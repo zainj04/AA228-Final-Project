@@ -1,0 +1,48 @@
+﻿Id,HomeTeam,HomeScore,AwayTeam,AwayScore,LineProvider,OverUnder,Spread,FormattedSpread,OpeningSpread,OpeningOverUnder,HomeMoneyline,AwayMoneyline
+401404018,Stanford,15,Arizona State,14,Bovada,52.5,-3,Stanford -3.0,-3.5,54.5,-150,130
+401404005,Oregon,45,Stanford,27,Bovada,63,-17.5,Oregon -17.5,-16,62.5,-750,500
+401404010,Stanford,27,Oregon State,28,Bovada,53,4,Oregon State -4.0,7,58.5,170,-200
+401404049,Stanford,26,BYU,35,Bovada,58,6.5,BYU -6.5,7,58,210,-250
+401404001,Washington,40,Stanford,22,Bovada,62,-14,Washington -14.0,-11.5,61,-550,390
+401404016,Notre Dame,14,Stanford,16,Bovada,53,-16.5,Notre Dame -16.5,-15,52.5,-750,500
+401403980,Stanford,28,USC,41,Bovada,67,9.5,USC -9.5,10,65,255,-310
+401403970,Stanford,41,Colgate,10,Bovada,52,-39,Stanford -39.0,-40,51,,
+401404025,UCLA,38,Stanford,13,Bovada,64.5,-16.5,UCLA -16.5,-16,63.5,-800,525
+401404038,Utah,42,Stanford,7,Bovada,54,-24,Utah -24.0,-23,53,-2800,1100
+401404041,California,27,Stanford,20,Bovada,45.5,-5,California -5.0,-5.5,46.5,-220,180
+401404032,Stanford,14,Washington State,52,Bovada,48,3,Washington State -3.0,4.5,48.5,170,
+401404018,Stanford,15,Arizona State,14,consensus,52,-3,Stanford -3,,,,
+401404005,Oregon,45,Stanford,27,consensus,63,-17.5,Oregon -17.5,,,,
+401404010,Stanford,27,Oregon State,28,consensus,53.5,4.5,Oregon State -4.5,,,,
+401404049,Stanford,26,BYU,35,consensus,57.5,6.5,BYU -6.5,,,,
+401404001,Washington,40,Stanford,22,consensus,62,-14,Washington -14,,,,
+401404016,Notre Dame,14,Stanford,16,consensus,53.5,-16.5,Notre Dame -16.5,,,,
+401403980,Stanford,28,USC,41,consensus,66.5,9.5,USC -9.5,,,,
+401403970,Stanford,41,Colgate,10,consensus,51.5,-40,Stanford -40,,,,
+401404025,UCLA,38,Stanford,13,consensus,64.5,-16.5,UCLA -16.5,,,,
+401404038,Utah,42,Stanford,7,consensus,54,-24,Utah -24,,,,
+401404041,California,27,Stanford,20,consensus,46,-5,California -5,,,,
+401404032,Stanford,14,Washington State,52,consensus,48.5,3,Washington State -3,,,,
+401404018,Stanford,15,Arizona State,14,teamrankings,52,-3,Stanford -3,,,,
+401404005,Oregon,45,Stanford,27,teamrankings,63,-17,Oregon -17,,,,
+401404010,Stanford,27,Oregon State,28,teamrankings,53,4.5,Oregon State -4.5,,,,
+401404049,Stanford,26,BYU,35,teamrankings,57.5,6,BYU -6,,,,
+401404001,Washington,40,Stanford,22,teamrankings,62.5,-14,Washington -14,,,,
+401404016,Notre Dame,14,Stanford,16,teamrankings,53.5,-16.5,Notre Dame -16.5,,,,
+401403980,Stanford,28,USC,41,teamrankings,66.5,9.5,USC -9.5,,,,
+401404025,UCLA,38,Stanford,13,teamrankings,64.5,-16.5,UCLA -16.5,,,,
+401404038,Utah,42,Stanford,7,teamrankings,54,-23.5,Utah -23.5,,,,
+401404041,California,27,Stanford,20,teamrankings,46,-5,California -5,,,,
+401404032,Stanford,14,Washington State,52,teamrankings,48.5,3,Washington State -3,,,,
+401404018,Stanford,15,Arizona State,14,William Hill (New Jersey),52,-3,Stanford -3,,,,
+401404005,Oregon,45,Stanford,27,William Hill (New Jersey),63,-18,Oregon -18,,,,
+401404010,Stanford,27,Oregon State,28,William Hill (New Jersey),53.5,4.5,Oregon State -4.5,,,,
+401404049,Stanford,26,BYU,35,William Hill (New Jersey),57.5,6.5,BYU -6.5,,,,
+401404001,Washington,40,Stanford,22,William Hill (New Jersey),62,-14,Washington -14,,,,
+401404016,Notre Dame,14,Stanford,16,William Hill (New Jersey),54.5,-16.5,Notre Dame -16.5,,,,
+401403980,Stanford,28,USC,41,William Hill (New Jersey),66.5,9.5,USC -9.5,,,,
+401403970,Stanford,41,Colgate,10,William Hill (New Jersey),51.5,-40,Stanford -40,,,,
+401404025,UCLA,38,Stanford,13,William Hill (New Jersey),64.5,-16.5,UCLA -16.5,,,,
+401404038,Utah,42,Stanford,7,William Hill (New Jersey),54,-24,Utah -24,,,,
+401404041,California,27,Stanford,20,William Hill (New Jersey),46,-5,California -5,,,,
+401404032,Stanford,14,Washington State,52,William Hill (New Jersey),48.5,3,Washington State -3,,,,

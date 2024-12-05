@@ -1,0 +1,12 @@
+Id,HomeTeam,HomeScore,AwayTeam,AwayScore,LineProvider,OverUnder,Spread,FormattedSpread,OpeningSpread,OpeningOverUnder,HomeMoneyline,AwayMoneyline
+401628981,Notre Dame,49,Stanford,7,Bovada,45.0,-22.5,Notre Dame -22.5,-23.0,46.0,-2200.0,1000.0
+401634300,Stanford,27,TCU,34,Bovada,58.5,8.0,TCU -8.0,8.5,58.5,250.0,-300.0
+401634766,Syracuse,24,Stanford,26,Bovada,57.0,-7.5,Syracuse -7.5,-9.5,58.5,-330.0,265.0
+401635516,NC State,59,Stanford,28,Bovada,46.5,-9.5,NC State -9.5,-10.0,47.5,-410.0,305.0
+401635517,Stanford,38,Louisville,35,Bovada,58.5,21.0,Louisville -21.0,20.0,57.5,750.0,-1400.0
+401635561,Clemson,40,Stanford,14,Bovada,58.0,-24.0,Clemson -24.0,-21.5,58.0,-1900.0,900.0
+401635573,Stanford,7,Virginia Tech,31,Bovada,49.5,8.5,Virginia Tech -8.5,6.5,53.5,255.0,-310.0
+401635590,Stanford,10,SMU,40,Bovada,52.5,16.5,SMU -16.5,14.5,55.5,460.0,-675.0
+401635599,Stanford,24,Wake Forest,27,Bovada,53.0,3.0,Wake Forest -3.0,3.0,55.5,125.0,-145.0
+401635613,California,24,Stanford,21,Bovada,53.5,-14.5,California -14.5,-14.0,55.5,-675.0,460.0
+401635625,San José State,34,Stanford,31,Bovada,54.5,-2.5,San José State -2.5,-2.5,56.0,-135.0,115.0

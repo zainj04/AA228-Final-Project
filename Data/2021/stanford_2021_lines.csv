@@ -1,0 +1,52 @@
+﻿Id,HomeTeam,HomeScore,AwayTeam,AwayScore,LineProvider,OverUnder,Spread,FormattedSpread,OpeningSpread,OpeningOverUnder,HomeMoneyline,AwayMoneyline
+401282080,Vanderbilt,23,Stanford,41,Bovada,48.5,13,Stanford -13.0,11,48.5,345,-470
+401309864,Stanford,31,Oregon,24,Bovada,57.5,8.5,Oregon -8.5,7,58.5,255,-310
+401309858,Stanford,24,UCLA,35,Bovada,60,4,UCLA -4.0,3.5,59,160,-185
+401309868,Arizona State,28,Stanford,10,Bovada,53.5,-13.5,Arizona State -13.5,-10.5,52,-520,375
+401309873,Washington State,34,Stanford,31,Bovada,53,-1,Washington State -1.0,2.5,50.5,-115,-105
+401287889,Kansas State,24,Stanford,7,Bovada,54,-3.5,Kansas State -3.5,0,52.5,-160,140
+401309900,Stanford,11,California,41,Bovada,45.5,2.5,California -2.5,3.5,43.5,115,-135
+401309843,USC,28,Stanford,42,Bovada,53.5,-17,USC -17.0,-17.5,51,-1000,600
+401309894,Oregon State,35,Stanford,14,Bovada,56,-13,Oregon State -13.0,-10,56,-480,350
+401309888,Stanford,7,Utah,52,Bovada,52,10,Utah -10.0,6.5,52.5,265,-330
+401309883,Stanford,13,Washington,20,Bovada,46,-3,Stanford -3.0,-2.5,48,-145,125
+401282711,Stanford,14,Notre Dame,45,Bovada,53,20,Notre Dame -20.0,17.5,52.5,750,-1400
+401282080,Vanderbilt,23,Stanford,41,consensus,49,12.5,Stanford -12.5,,,,
+401309864,Stanford,31,Oregon,24,consensus,57.5,8.5,Oregon -8.5,,,,
+401309858,Stanford,24,UCLA,35,consensus,60,4,UCLA -4,,,,
+401309868,Arizona State,28,Stanford,10,consensus,53.5,-13.5,Arizona State -13.5,,,,
+401309873,Washington State,34,Stanford,31,consensus,53,-1,Washington State -1,,,,
+401287889,Kansas State,24,Stanford,7,consensus,54,-3,Kansas State -3,,,,
+401309900,Stanford,11,California,41,consensus,46,2.5,California -2.5,,,,
+401309843,USC,28,Stanford,42,consensus,53.5,-17.5,USC -17.5,,,,
+401309894,Oregon State,35,Stanford,14,consensus,56.5,-12.5,Oregon State -12.5,,,,
+401309888,Stanford,7,Utah,52,consensus,51.5,11,Utah -11,,,,
+401309883,Stanford,13,Washington,20,consensus,46,-2.5,Stanford -2.5,,,,
+401282711,Stanford,14,Notre Dame,45,consensus,53,21,Notre Dame -21,,,,
+401282080,Vanderbilt,23,Stanford,41,numberfire,49.5,10.5,Stanford -10.5,,,,
+401287889,Kansas State,24,Stanford,7,numberfire,54.5,-3.5,Kansas State -3.5,,,,
+401309843,USC,28,Stanford,42,numberfire,53.5,-17.5,USC -17.5,,,,
+401282080,Vanderbilt,23,Stanford,41,teamrankings,49,13,Stanford -13,,,,
+401309864,Stanford,31,Oregon,24,teamrankings,57.5,8.5,Oregon -8.5,,,,
+401309858,Stanford,24,UCLA,35,teamrankings,60.5,4,UCLA -4,,,,
+401309868,Arizona State,28,Stanford,10,teamrankings,53.5,-13.5,Arizona State -13.5,,,,
+401309873,Washington State,34,Stanford,31,teamrankings,53,-1,Washington State -1,,,,
+401287889,Kansas State,24,Stanford,7,teamrankings,54.5,-3,Kansas State -3,,,,
+401309900,Stanford,11,California,41,teamrankings,46,2.5,California -2.5,,,,
+401309843,USC,28,Stanford,42,teamrankings,53,-17,USC -17,,,,
+401309894,Oregon State,35,Stanford,14,teamrankings,56.5,-12.5,Oregon State -12.5,,,,
+401309888,Stanford,7,Utah,52,teamrankings,52,10,Utah -10,,,,
+401309883,Stanford,13,Washington,20,teamrankings,45.5,-2.5,Stanford -2.5,,,,
+401282711,Stanford,14,Notre Dame,45,teamrankings,53,20.5,Notre Dame -20.5,,,,
+401282080,Vanderbilt,23,Stanford,41,William Hill (New Jersey),49,13,Stanford -13,,,,
+401309864,Stanford,31,Oregon,24,William Hill (New Jersey),57.5,8.5,Oregon -8.5,,,,
+401309858,Stanford,24,UCLA,35,William Hill (New Jersey),60,4,UCLA -4,,,,
+401309868,Arizona State,28,Stanford,10,William Hill (New Jersey),53.5,-13.5,Arizona State -13.5,,,,
+401309873,Washington State,34,Stanford,31,William Hill (New Jersey),53,-1,Washington State -1,,,,
+401287889,Kansas State,24,Stanford,7,William Hill (New Jersey),54,-3,Kansas State -3,,,,
+401309900,Stanford,11,California,41,William Hill (New Jersey),46,2.5,California -2.5,,,,
+401309843,USC,28,Stanford,42,William Hill (New Jersey),53.5,-17.5,USC -17.5,,,,
+401309894,Oregon State,35,Stanford,14,William Hill (New Jersey),56,-12.5,Oregon State -12.5,,,,
+401309888,Stanford,7,Utah,52,William Hill (New Jersey),51.5,10.5,Utah -10.5,,,,
+401309883,Stanford,13,Washington,20,William Hill (New Jersey),46,-2.5,Stanford -2.5,,,,
+401282711,Stanford,14,Notre Dame,45,William Hill (New Jersey),53,21,Notre Dame -21,,,,
